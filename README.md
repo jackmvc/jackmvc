@@ -1,5 +1,3 @@
-jackmvc#!
+#!jackmvc
 =======
 
-
-Nedir? ffff
