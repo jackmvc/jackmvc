@@ -1,3 +1,1 @@
-#!jackmvc
-=======
-
+JackMvc Prototip Tabanlı Javascript Framework
